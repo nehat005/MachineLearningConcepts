@@ -4,4 +4,5 @@ Basic Description of various losses, toolkits, gradient methods and upcoming sta
 Resources:
 - [albumentation](https://albumentations.ai/) : CV annotating tool
 - [Transformer Models](https://arxiv.org/abs/2302.07730) : Transformer configurations and summary
+- [Prodigy 101](https://prodi.gy/docs)
 
